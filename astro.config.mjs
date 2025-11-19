@@ -8,7 +8,6 @@ export default defineConfig({
     integrations: [
         starlight({
             title: 'App',
-
             sidebar: [
                 {
                     label: 'App',
